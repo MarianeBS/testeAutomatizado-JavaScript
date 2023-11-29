@@ -1,0 +1,17 @@
+{
+  "name": "mari_att_qts",
+  "version": "1.0.0",
+  "description": "Rodar antes de testar:\r - npm i",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0",
+    "nan": "^2.18.0",
+    "selenium-webdriver": "^4.15.0"
+  }
+}
